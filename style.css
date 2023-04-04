@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.section-card {
+    padding: 4rem;
+}
+
+.card {
+    background-color: #e7e7e7;
+    box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
+    max-width: 200px;
+    padding: 2rem;
+}
+
+.card:not(:last-child) {
+    margin-right: 300px;
+}
+
+.card-1 {
+    float: left;
+}
+
+.card-2 {
+    float: left;
+}
+
+.card-3 {
+    float: left;
+}
